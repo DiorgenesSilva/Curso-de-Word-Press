@@ -1,0 +1,20 @@
+#  INSTALANDO TEMA
+## ASTRA THEME E ASTRA CHILD
+> Iremos abrir a barra a esquerda o Painel de Controle
+do WordPress vai em APARENCIA e depois em  TEMAS ,adicionar novo e
+pesquise por Astra Theme .Instala o Astra Theme mas ainda
+NÃO utilizamos o tema Astra que é o Tema pai.
+
+Iremos entao pesquisar no Google Astra Child Generate 
+e mSeguida mandaremos apenas gerar ou tema filho ou generate
+Esse tema Filhoo Astra Child Generate  ira herdar tudo do
+tema pai o Astra Theme;
+Automaticamente ele ira fazeg o dowlaod de um arquivo zip
+Entao voce ira no Painel do WordPress em Aparencia e Temas
+Adicionar novo ,va a pasta de Dowloads e pegue o arquivo Zip Astra-Child
+E instale o astra Child e aplique para utilizar o tema
+
+Os outros Temas devem ser exvcluidios,menos o Astra Theme e o Astra Child
+Ao remover temas que nao estao sendo utlizados ,tira peso do WP
+ajudando na performance do seu site 
+
