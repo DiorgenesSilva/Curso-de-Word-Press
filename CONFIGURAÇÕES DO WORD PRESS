@@ -1,0 +1,58 @@
+# CONFIGURAÇÕES DO WORD PRESS
+
+# PAINEL CONFIGURAÇÃO DO WORD PRESS
+> Ir para Painel de Controle do word press
+> Va a Configurações em GERAL
+
+# TITULO DO SITE
+Aqui é aonde vai coloocar o nome do site
+# DESCRIÇÃO
+Pode colocar uma descrição para o seu site
+
+# ENDEREÇO DO WORDPRESS [URL] e endereço do site [URL}
+Por padrão o WP vem com url em [http:]
+Mas deve se utilizar outra URL mais segura [https:]
+O [https:] é o mesmo que o [http:] padrão
+mas com criptografia de dados o SSL 
+Sabendo que [http:] não é seguro o Google penaliza pesado
+sites Nao Seguro 
+
+# ENEDEREÇO DE EMAIL
+Esse email é o email de comunicação entre o SEO
+e o WOrdPress ,
+Este endereço é utilizado para propósitos de administração.
+Se você mudá-lo, nós lhe enviaremos um e-mail em seu novo endereço para confirmá-lo.
+
+# MEMBROS
+SE o seu site for de loja virtual ou site de membros
+pode utilizar essa função ,caso tenha area de  membros
+ou receber dados  marque.
+Caso for somente fazer uma pesquisa no seu site
+
+# FUNÇÃO PADRÃO PARA NOVO USUARIO
+Por padrao assinante
+Mas pode deixar ferramentas de adm para outros usuarios
+
+# IDIOMA DO SITE
+Pode se colocar o idioma que o site deve ser entregue
+
+# FUSO HORARIO
+Algumas cidades nao existem
+Entao utilize a mais proxima
+
+# FORMATO DATA E HORA 
+Dia mes e ano ou inverso
+
+=========================================
+#OUTRAS CONFIGURAÇÕES DO WORDPRESS
+=========================================
+> Abra o Painel do WordPress
+> Abra configurações e WPS Hide Login
+> Na configuração do WPS H.L va para Login URL
+> Em Login URL a chamada esta para (admin) entao mude para outra chamda
+tire (admin) e mude para outro nome a sua preferencia como (gestao)
+# ENDEREÇO DO LOCALHOST
+http://localhost/ongbarueri/wp-admin
+# ENDEREÇOO O PLUGIN  WPS HIDE LOGIN
+http://localhost/ongbarueri/wp-gestao
+
