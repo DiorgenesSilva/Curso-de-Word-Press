@@ -1,0 +1,101 @@
+Curso de WordPress 15 
+– Menus no WordPress
+=============================================
+MENU NO WORDPRESS
+=============================================
+Primeiro iremos criar as Paginas que estarão 
+dentro do nosso menu  
+---------------------------
+CRIE UMA PAGINAS 
+---------------------------
+
+> Clique em Pagina
+ > Criar Nova Pagina 
+  > PAGINA PRINCIPAL
+
+> Clique em Pagina
+ > Criar Nova Pagina 
+  > PAGINA DE SERVIÇOS
+
+> Clique em Pagina
+ > Criar Nova Pagina 
+  > QUEM SOMOS
+
+> Clique em Pagina
+ > Criar Nova Pagina 
+  > CONTATO 
+
+> Clique em Pagina
+ > Criar Nova Pagina   
+  > NOTICIAS
+
+======================================= 
+APARENCIA = MENU 
+======================================= 
+O WordPress vem vazio sem MENU ou Vazio 
+Mas iremos Criar nosso Menu 
+----------------------------------------
+> CLIQUE EM APARENCIA 
+ > CLIQUE ME MENU 
+  > NOME DO MENU 'MENU PRINCIPAL' 
+   > CRIAR MENU 
+=========================================
+DENTRO DO MENU PRINCIPAL 
+PODEMOS ADICIONAR PAGINAS AO NOSSO MENU 
+=========================================
+MENU PRINCIPAL 
+> ADICIONE :> PAGINA PRINCIPAL 
+> ADICIONE :> PAGINA DE SERVIÇOS 
+> ADICIONE :> QUEM SOMOS 
+> ADICIONE :> CONTATO 
+> ADICIONE :> NOTICIAS 
+
+PODEMOS CRIAR SUB MENUS 
+Arrastando as paginas para dentro de ooutras
+isso ira criar uma pagina dentro de outra no
+seu MENU. Ou um submenu 
+MENU PRINCIPAL 
+> ADICIONE :> PAGINA PRINCIPAL 
+ >NOTICIAS
+
+=========================================
+
+PAGINAS 
+Na lateral existem opções de ver paginas
+geralmente colocamos
+Mais recentes ou Ver tudo
+
+----------------------------------------
+
+CONFIGURAÇÕES DO MENU 
+Podemos Escolher se vai ser 
+MENU DE RODAPÉ 
+OU MENU PRINCIPAL
+Nunca colocar paginas automaticamente no menu  
+
+--------------------------------------- 
+
+=========================================
+OPÇÕES DE TELA 
+=========================================
+
+No topo superior a direita temos 
+OPÇÕES DE TELA 
+Elementos da tela
+Alguns elementos da tela podem ser exibidos ou ocultados usando as caixas de seleção.
+ Podem ser expandidos ou recolhidos clicando nos cabeçalhos, 
+e organizados arrastando seus cabeçalhos ou clicando nas setas para cima e para baixo.
+
+> Páginas
+> Posts
+> Links personalizados
+> Categorias
+> Tags
+> Formatos
+Mostrar propriedades avançadas de menu
+> Destino do link 
+> Atributo título 
+> Classes CSS 
+> Relação de Links 
+> (XFN) 
+> Descrição
